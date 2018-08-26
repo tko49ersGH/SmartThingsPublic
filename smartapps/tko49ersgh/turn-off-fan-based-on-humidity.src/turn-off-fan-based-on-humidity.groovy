@@ -20,8 +20,8 @@ definition(
     author: "Tim Okazaki",
     description: "Turns off fan when humidity stabilizes",
     category: "My Apps",
-    iconUrl: "https://s3-us-west-2.amazonaws.com/okazakiweb/SmartThings/MotionSensor_256.png",
-    iconX2Url: "https://s3-us-west-2.amazonaws.com/okazakiweb/SmartThings/MotionSensor_512.png")
+    iconUrl: "https://s3-us-west-2.amazonaws.com/okazakiweb/SmartThings/humidity_256.png",
+    iconX2Url: "https://s3-us-west-2.amazonaws.com/okazakiweb/SmartThings/humidity_512.png")
 
 
 preferences {
